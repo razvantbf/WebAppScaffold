@@ -6,3 +6,5 @@ Simple Web App Scaffold
 - AutoReload
 - SASS
 - WebServer
+- Pixrem
+- Normalize.css
